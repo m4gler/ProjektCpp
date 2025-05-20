@@ -1,0 +1,4 @@
+uzycie programu:
+
+wchodzimy w konfiguracje projektu np. untitled2,
+klikamy edit configurations w program arguments wpisujemy: "dane.txt wynik.txt" klikamy apply i uruchamiamy projekt
